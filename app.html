@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>RokuFlashback - Rewind</title>
+
+  
+  <link rel="stylesheet" href="sass/main.css">
+
+  <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"
+    integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ"
+    crossorigin="anonymous"></script>
+
+  <script src="https://unpkg.com/vue"></script>
+  <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+</head>
+
+<body>
+    <main id="app">
+    
+        <router-view>hi</router-view>
+    
+        <footer>
+            <nav class="mainNav">
+            <ul>
+                <a href="index.html"> home</a>
+                <router-link to="/search" class="mNavItem"><i class="fas fa-search"></i></router-link>
+                <router-link to="/curate" class="mNavItem"><i class="fas fa-book"></i></router-link>
+            </ul>
+        </nav>
+        </footer>
+        
+    </main>
+    
+
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -32,6 +32,12 @@
               <li v-if="authenticated" v-on:click="logout()"><i class="fas fa-power-off"></i></li>
             </ul>
           </nav>
+          <a href="admin/admin_createuser.php">Register</a>
+          <a href="app.html">my stuff</a>
+          <router-link to="/children">children</router-link>
+          <router-link to="/" class="mNavItem"><i class="fas fa-home"></i></router-link>
+            <router-link to="/search" class="mNavItem"><i class="fas fa-search"></i></router-link>
+            <router-link to="/library"></i></router-link>
         </header>
       </div>
     </div> <!-- end container fluid -->
@@ -42,7 +48,7 @@
 
   <footer>
     <p class="copy">
-      &copy; 2018 The Awesome Company, Inc
+      &copy; 2020 Roku
     </p>
 
     <ul class="float-right">
@@ -53,8 +59,8 @@
     </ul>
   </footer>
 
-
   <script type="module" src="js/main.js"></script>
+
 </body>
 
 </html>
