@@ -1,4 +1,4 @@
-# Collier_V_Cunha_R_Roku
+# checklist
 
 - [x] logodesign
 - [x] similar apps research
@@ -11,11 +11,22 @@
 - [ ] filters
 - [ ] videos for database
 
+---
+
 # Welcome to Roku page
 
 > EVERYTHING YOU WANT IN THE SAME PLACE
 
-![](../mainbanner2.jpg)
+---
+
+## Table of Contents
+
+- [checklist](#checklist)
+- [welcome](#welcome)
+- [built witj](#builtwith)
+- [Team](#team)
+
+---
 
 ## Built with
 
@@ -24,6 +35,8 @@
 ```SASS/CSS3```
 ```JavaScript```
 
-## Authors
+---
+
+## Team
 - [Renata Cunha](https://github.com/Re-01)- Designer
 - [Victoria Collier](https://github.com/vcollier)- Developer and Designer
