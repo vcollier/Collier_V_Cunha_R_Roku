@@ -1,9 +1,19 @@
 # Collier_V_Cunha_R_Roku
 
+- [x] logodesign
+- [x] similar apps research
+- [x] wireframe v1
+- [x] wireframe v2
+- [x] code v1
+- [x] icons, buffer, avatar
+- [ ] user page
+- [ ] children's page
+- [ ] filters
+- [ ] videos for database
+
 # Welcome to Roku page
-```
-Find yourself at home
-```
+```EVERYTHING YOU WANT IN THE SAME PLACE```
+
 ## Built with
 
 * PHP
