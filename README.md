@@ -38,6 +38,7 @@ Clone this repo to your local machine using `https://github.com/vcollier/Collier
 ```HTML5```
 ```SASS/CSS3```
 ```JavaScript```
+```Vue```
 
 
 
