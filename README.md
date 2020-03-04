@@ -34,7 +34,7 @@
 ```SASS/CSS3```
 ```JavaScript```
 
----
+
 
 ## Team
 - [Renata Cunha](https://github.com/Re-01)- Designer
