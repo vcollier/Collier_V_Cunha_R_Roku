@@ -17,7 +17,7 @@
 
 > EVERYTHING YOU WANT IN THE SAME PLACE
 
----
+
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@
 - [built witj](#builtwith)
 - [Team](#team)
 
----
+
 
 ## Built with
 
