@@ -1,8 +1,8 @@
-## Welcome to Roku page
+# Welcome to Roku page
 
 > EVERYTHING YOU WANT IN THE SAME PLACE
 
-# checklist
+## checklist
 
 - [x] logodesign
 - [x] similar apps research
