@@ -20,10 +20,10 @@
 
 ## Table of Contents
 
-- [checklist](#checklist)
 - [welcome](#welcome)
-- [built witj](#builtwith)
-- [Team](#team)
+- [checklist](#checklist)
+- [built with](#builtwith)
+- [team](#team)
 
 
 
