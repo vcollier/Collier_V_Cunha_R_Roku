@@ -28,7 +28,7 @@
 
 ## Clone
 
-```Clone this repo to your local machine using `https://github.com/vcollier/Collier_V_Cunha_R_Roku.git````
+Clone this repo to your local machine using `https://github.com/vcollier/Collier_V_Cunha_R_Roku.git`
 
 
 ## Built with
