@@ -13,7 +13,7 @@
 
 # Welcome to Roku page
 
-```python EVERYTHING YOU WANT IN THE SAME PLACE
+> EVERYTHING YOU WANT IN THE SAME PLACE
 
 ![](../mainbanner2.jpg)
 
