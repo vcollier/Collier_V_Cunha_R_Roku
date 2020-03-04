@@ -1,3 +1,7 @@
+## Welcome to Roku page
+
+> EVERYTHING YOU WANT IN THE SAME PLACE
+
 # checklist
 
 - [x] logodesign
@@ -12,11 +16,6 @@
 - [ ] videos for database
 
 ---
-
-# Welcome to Roku page
-
-> EVERYTHING YOU WANT IN THE SAME PLACE
-
 
 
 ## Table of Contents
