@@ -18,10 +18,10 @@
 
 ## Built with
 
-* PHP
-* HTML5
-* SASS/CSS3
-* JavaScript
+```sh* PHP```
+```sh* HTML5```
+```sh* SASS/CSS3```
+```sh* JavaScript```
 
 ## Authors
 - [Renata Cunha](https://github.com/Re-01)- Designer
