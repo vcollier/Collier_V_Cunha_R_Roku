@@ -12,7 +12,8 @@
 - [ ] videos for database
 
 # Welcome to Roku page
-```EVERYTHING YOU WANT IN THE SAME PLACE```
+
+```python EVERYTHING YOU WANT IN THE SAME PLACE
 
 ![](../mainbanner2.jpg)
 
