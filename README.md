@@ -2,19 +2,6 @@
 
 > EVERYTHING YOU WANT IN THE SAME PLACE
 
-## checklist
-
-- [x] logodesign
-- [x] similar apps research
-- [x] wireframe v1
-- [x] wireframe v2
-- [x] code v1
-- [x] icons, buffer, avatar
-- [ ] user page
-- [ ] children's page
-- [ ] filters
-- [ ] videos for database
-
 ---
 
 
