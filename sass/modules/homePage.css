@@ -1,0 +1,215 @@
+.music-body img, .movies-body img, .tv-body img {
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.music-body a, .movies-body a, .tv-body a {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.media a{
+  color: white;
+  text-decoration: none;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.media{
+  margin: 0 auto;
+  padding-top: 20px;
+
+}
+P{
+  text-align: center;
+}
+
+.subButton{
+  margin: 0 auto;
+  margin-left: 160px;
+  margin-top: 30px;
+  text-align: center;
+	box-shadow:inset 0px 34px 0px -15px #dfc00f;
+	background-color:#e9c217;
+	border:1px solid #a37e02;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:9px 23px;
+	text-decoration:none;
+}
+
+.subButton:hover {
+	background-color:#c49807;
+}
+.subButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton {
+  margin: 0 auto;
+  text-align: center;
+  width: 70px;
+	box-shadow:inset 0px 34px 0px -15px #dfc00f;
+	background-color:#e9c217;
+	border:1px solid #a37e02;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:9px 23px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#c49807;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.music-body {
+  margin-top: 50px;
+  height: 650px;
+  background-color: #e4b007;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#movie-img{
+  width: 300px;
+}
+
+#story{
+  display: block;
+}
+
+.ad-movie-row{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 50px;
+ 
+}
+
+#music{
+  margin-top: -300px;
+}
+
+.det-con{
+  display: flex;
+  flex-direction: column;
+  padding: 0 50px 0 50px;
+  text-align: center;
+}
+
+.det-con-mus{
+  text-align: center;
+}
+
+.det-con-mus audio{
+  margin-left: -300px;
+}
+
+.det-con video{
+  margin: 0 auto;
+}
+
+
+.movie-item{
+  margin-top: 200px;
+  margin: 0 auto;
+}
+
+#mov-con{
+  margin-top: 200px;
+}
+
+.det-mov video{
+  width: 90%;
+}
+
+#movie-1{
+  margin-top: 50px;
+  width: 98%;
+
+}
+
+h2 {
+  padding-top: 50px;
+  text-align: center;
+}
+
+h3 {
+  padding-top: 50px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+button {
+  margin: 0 auto;
+}
+
+.pageHeader{
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.movies-body {
+  margin-top: 50px;
+  height: 650px;
+  background-color: #5d8297;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.tv-body {
+  margin-top: 50px;
+  height: 650px;
+  background-color: #5d9781;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.year-col{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.year-col img{
+  width: 300px;
+  margin: 0 auto;
+}
+
+.yearHead{
+  margin-top: 100px;
+  margin-left: 50px;
+  font-size: 30px;
+
+}
+/*# sourceMappingURL=homePage.css.map */

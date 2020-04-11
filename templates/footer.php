@@ -1,0 +1,1 @@
+<footer><br> Copyright <?php echo date('Y'); ?></footer>
