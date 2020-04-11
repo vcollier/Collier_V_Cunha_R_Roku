@@ -32,3 +32,6 @@ Clone this repo to your local machine using `https://github.com/vcollier/Collier
 ## Team
 - [Renata Cunha](https://github.com/Re-01)- Designer
 - [Victoria Collier](https://github.com/vcollier)- Developer and Designer
+
+## License 
+MIT
